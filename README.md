@@ -2,12 +2,7 @@
  Un sistema de ventas usando Java, Spring MVC, MySQL y Bootstrap
 
 
-# Tutorial
-Aquí: https://parzibyte.me/blog/2019/09/04/sistema-ventas-spring-mvc-mysql-bootstrap/
-
 ## Descargar código del sistema de ventas Spring Boot y compilar
-
-
 Lo que se tiene que hacer para que funcione el proyecto es instalar gradle, MySQL y Java.
 
 Después se ejecuta el programa con:
@@ -21,8 +16,6 @@ Y crea el jar usando:
 
 
 La url de funcionamiento es _http://localhost:8080/productos/mostrar_.
-
-No olvides que dejo el código fuente en github (https://github.com/Carlos2811/Sistema-inventario-java).
 
 
 ## Esquema de base de datos
