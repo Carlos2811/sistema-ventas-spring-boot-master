@@ -22,7 +22,7 @@ Y crea el jar usando:
 
 La url de funcionamiento es _http://localhost:8080/productos/mostrar_.
 
-No olvides que dejo el código fuente en [GitHub](https://github.com/Carlos2811/Sistema-inventario-java).
+No olvides que dejo el código fuente en github (https://github.com/Carlos2811/Sistema-inventario-java).
 
 
 ## Esquema de base de datos
