@@ -1,4 +1,4 @@
-package me.parzibyte.sistemaventasspringboot;
+package me.inventario.sistemaventasspringboot;
 
 public class ProductoParaVender extends Producto {
     private Float cantidad;

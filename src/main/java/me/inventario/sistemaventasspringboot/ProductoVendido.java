@@ -1,4 +1,4 @@
-package me.parzibyte.sistemaventasspringboot;
+package me.inventario.sistemaventasspringboot;
 
 import javax.persistence.*;
 
